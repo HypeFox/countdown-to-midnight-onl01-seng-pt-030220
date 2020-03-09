@@ -1,5 +1,4 @@
-def countdown 
-  while 
+#write your code here
 
 def countdown
 end
